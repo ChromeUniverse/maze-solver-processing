@@ -9,3 +9,8 @@ The code stored here was used for the develeopment/showcase of the Maze Solver i
 Lucca Duarte - 'ChromeUniverse'
 
 Eduardo Quirino - 'qrno'
+
+
+
+
+...special thanks to Heitor for the Asus Monitor
