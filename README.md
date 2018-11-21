@@ -6,4 +6,5 @@ The code stored here was used for the develeopment/showcase of the Maze Solver i
 Developers:
 
 Lucca Duarte - 'ChromeUniverse'
+
 Eduardo Quirino - 'qrno'
