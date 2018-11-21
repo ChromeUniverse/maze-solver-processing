@@ -4,7 +4,7 @@
 
 The code stored here was used for the develeopment/showcase of the Maze Solver in October of 2018 for the CMB Science Fair.
 
-###Developers:
+### Developers:
 
 Lucca Duarte - 'ChromeUniverse'
 
