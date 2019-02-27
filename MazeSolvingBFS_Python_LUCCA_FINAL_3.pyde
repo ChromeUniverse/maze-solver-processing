@@ -3,7 +3,7 @@
 # sample maze:
 # https://drive.google.com/open?id=1j7W-cX6dYOYzFOQwodKlMvOWaWNz3cIj
 
-# NOTE: PRESS ANY KEY ON KEYBOARD AND RIGHT MOUSE BUTTON **OVER A WHITE SQUARE** TO RUN BFS
+# PRESS ANY KEY ON KEYBOARD AND RIGHT MOUSE BUTTON **OVER A WHITE SQUARE** TO RUN BFS
 
 from collections import deque
 
@@ -68,7 +68,7 @@ def board_builder(num_lines,num_collumns):
 
 # Commment to deactive board builder
 board = board_builder(num_lines,num_collumns)
-# NOTE: PRESS ANY KEY ON KEYBOARD AND RIGHT MOUSE BUTTON **OVER A WHITE SQUARE** TO RUN BFS
+# PRESS ANY KEY ON KEYBOARD AND RIGHT MOUSE BUTTON **OVER A WHITE SQUARE** TO RUN BFS
 
 #--------------------------------------------------------------------------------
 #--------------------------------------------------------------------------------
@@ -178,7 +178,7 @@ def find_path_between_nodes(start_node, end_node, came_from):
 #------------------------------------------------------------------------------
 #------------------------------------------------------------------------------
 
-# NOTE: PRESS ANY KEY ON KEYBOARD AND RIGHT MOUSE BUTTON **OVER A WHITE SQUARE** TO RUN BFS
+# PRESS ANY KEY ON KEYBOARD AND RIGHT MOUSE BUTTON **OVER A WHITE SQUARE** TO RUN BFS
 
 def mousePressed():
     global board
